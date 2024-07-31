@@ -1,4 +1,4 @@
-<h3 align="left">Daniel Neves - Análise e Desenvolvimento de Sistemas<br><br>System.out.println ("Hello world!");<br>___________________________________________________________________________________________________________<br><br>Sobre Mim<br><br>- Estudante de Análise e Desenvolvimento de Sistemas pela Unicesumar.<br>- Atualmente estudando Java, incluindo Programação Orientada a Objetos (POO).<br>- Git e GitHub.<br>- Conhecimentos básicos em HTML, JavaScript e Banco de Dados PostgreSQL.<br>- Tenho um Instagram voltado para exercícios de tecnologia e minha evolução como programador.</h3>
+<h3 align="left">Daniel Neves - Análise e Desenvolvimento de Sistemas<br><br>System.out.println ("Hello world!");<br>_________________________________________________________________________________________________________________________________<br><br>Sobre Mim<br><br>- Estudante de Análise e Desenvolvimento de Sistemas pela Unicesumar.<br>- Atualmente estudando Java, incluindo Programação Orientada a Objetos (POO).<br>- Git e GitHub.<br>- Conhecimentos básicos em HTML, JavaScript e Banco de Dados PostgreSQL.<br>- Tenho um Instagram voltado para exercícios de tecnologia e minha evolução como programador.</h3>
 
 ###
 
@@ -20,12 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nevesdev7&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nevesdev7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nevesdev7/nevesdev7/output/snake.svg" alt="Snake animation" />
 
 ###
 
